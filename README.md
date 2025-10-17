@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:8a2be2&height=200&section=header&text=QUEEN%20LEESHA%20MD%20V1%20👑&fontSize=42&fontColor=ffffff&fontFamily=Orbitron&animation=twinkling" width="100%"/>
 
-<a><img src='https://files.catbox.moe/o8y469.jpg'/></a>
+<a><img src='https://files.catbox.moe/ti5t2p.jpg'/></a>
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
@@ -62,7 +62,7 @@
 
 
 <p align="center">
-<a href="https://queen-leesha-pair-session-v1.onrender.com/">
+<a href="https://queen-leesha-pair.onrender.com/">
 <img src="https://img.shields.io/badge/GET%20SESSION%20ID-ff007f?style=for-the-badge&logo=keybase&logoColor=white">
 </a>
 </p>

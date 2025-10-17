@@ -23,6 +23,7 @@
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "4.0.22-alpha.0",
+    "@vreden/youtube_scraper": "^1.2.0",
     "@hapi/boom": "^10.0.1",
     "@saipulanuar/jadianime-ts": "^2.0.0",
     "anime-wallpaper": "^1.0.2",
@@ -99,6 +100,7 @@
     "wa-sticker-formatter": "^4.4.4",
     "yargs": "^17.7.2",
     "youtube-yts": "^2.0.0",
+    "yt-search": "latest",
     "youtubedl-core": "^4.11.7",
     "ytdl-core": "4.11.5"
   }
